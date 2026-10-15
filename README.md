@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sokadjo Desire 👋
 
-<!--
-**Sokadjo-desire/Sokadjo-desire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Chemistry Student | Analytical Chemistry | FT-ICR MS | Python | Biomass & Bioenergy
 
-Here are some ideas to get you started:
+I am a Chemistry student interested in analytical chemistry, high-resolution mass spectrometry, data analysis, biomass characterization, and bioenergy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- High-Resolution Mass Spectrometry
+- FT-ICR MS
+- Analytical Chemistry
+- Lignocellulosic Biomass
+- Biomass Characterization
+- Pyrolysis and Bio-oil
+- Bioenergy and Biofuels
+
+## 💻 Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Scientific Data Visualization
+
+## 🧪 Current Research
+
+Molecular characterization of lignocellulosic biomass using FT-ICR MS and different ionization techniques, with a focus on understanding its potential for bioenergy and biofuel applications.
+
+## 🎯 Professional Interests
+
+Analytical Chemistry • Mass Spectrometry • Data Analysis • Energy Research
+
+---
+
+*Building skills at the intersection of chemistry, mass spectrometry, programming, and energy.*
+
